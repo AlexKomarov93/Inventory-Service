@@ -1,0 +1,13 @@
+package com.example.InvertoryService;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class InvertoryServiceApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
